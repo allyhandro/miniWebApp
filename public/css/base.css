@@ -1,0 +1,79 @@
+/** {
+    -webkit-box-sizing: border-box;
+    -mox-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}*/
+#Menu {
+    text-align: center;
+    margin: 15px;
+}
+
+.col-xs-4 a {
+    font-family: 'Londrina Outline', cursive;
+    font-weight: bolder;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.col-xs-4 a:link {
+    color: #266365;
+}
+
+.col-xs-4 a:hover{
+    color: #6ad0b2;
+    text-decoration: none;
+}
+
+.col-xs-4 a:active {
+    color: #7cd7da;
+}
+
+#keepItWeird h1{
+    font-family: 'Barrio', cursive;
+    font-size: 65px;
+    display: inline-block;
+    color: #fbcfb2;
+}
+
+#title {
+    margin-top: 8px;
+    background-color: rgba(38,99,101,0.8);
+    background-size: cover;
+    text-align: center;
+}
+
+#focus img {
+    display: block;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+#focusLapis h1 {
+    margin-bottom: 20px;
+    color: #266365;
+    text-align: center;
+    font-size: 40px;
+}
+
+#focus h1{
+    color: #6ad0b2;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+#caption{
+    text-align: center;
+}
+
+
+body {
+    background-image: url("http://68.media.tumblr.com/f132dc5d1f0784c83ee5deb19c0f9882/tumblr_ndlsv3JcpR1smn4pqo10_1280.jpg");
+    background-size: cover;
+}
+img, embed,
+object, video{
+    max-width: 100%;
+}
+

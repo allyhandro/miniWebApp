@@ -34,4 +34,3 @@ Using curl will output the response header and body to the command line window. 
 
 The program can be exited by typing Crl + C in your Command Line window.
 
-# miniWebApp
